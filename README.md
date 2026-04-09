@@ -1,2 +1,2 @@
-# galeratech1
+# galeratech2
 Teste de receitas
